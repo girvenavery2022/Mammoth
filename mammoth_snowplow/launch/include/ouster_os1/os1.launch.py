@@ -92,5 +92,4 @@ def generate_launch_description():
         activate_event,
         configure_event,
         shutdown_event,
-        ros2-snowplow
     ])
